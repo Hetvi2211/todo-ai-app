@@ -47,25 +47,6 @@ A modern full-stack TODO application built using React, Tailwind CSS, Node.js, a
 
 ---
 
-## 🤖 Prompts Used
-
-### Prompt 1
-
-Create a modern responsive TODO app using React and Tailwind CSS.
-
-### Prompt 2
-
-Create an Express.js backend for a TODO app with CRUD APIs.
-
-### Prompt 3
-
-Connect React frontend with Express backend using fetch APIs.
-
-### Prompt 4
-
-Improve the UI with glassmorphism, gradients, and Framer Motion animations.
-
----
 
 ## 📚 Learning Experience
 
