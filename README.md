@@ -32,6 +32,24 @@ A modern full-stack TODO application built using React, Tailwind CSS, Node.js, a
 * Express.js
 * CORS
 * UUID
+---
+
+## Prompts Used
+
+Prompt 1:
+Create a React TODO application with modern UI.
+
+Prompt 2:
+Create an Express backend with CRUD APIs for task management.
+
+Prompt 3:
+Connect React frontend with Express backend using fetch API.
+
+Prompt 4:
+Implement add, delete, and complete task functionality.
+
+Prompt 5:
+Help debug API connection issues and CORS configuration.
 
 ---
 
